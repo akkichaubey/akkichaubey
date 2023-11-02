@@ -1,4 +1,4 @@
-# 👋 https://github.com/akkichaubey
+# 👋 Akash haubey
 
 - 🕸️ Your Friendly, Neighborhood Front End Developer. </>
 - 💻 Exploring the endless possibilities of Html, CSS, Less/Sass JavaScript, React and beyond!
